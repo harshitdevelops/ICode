@@ -1,0 +1,22 @@
+{
+  "name": "icode",
+  "version": "1.0.0",
+  "description": "Data Structures & Algorithms practice in JavaScript",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node"
+  },
+  "keywords": [
+    "dsa",
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "leetcode"
+  ],
+  "author": "harshitdevelops",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
